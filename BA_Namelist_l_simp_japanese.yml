@@ -44,7 +44,7 @@
 
 
  ###  Ship Class
- namelist_BA_shipclass_ArisPR:0 "无差别打击"
+ namelist_BA_shipclass_ArisPR:0 "无差别打击" #What Is This? 'indiscriminate attack' ?
 
 
  ###  Ship
@@ -108,3 +108,4 @@
 
 
 
+#Localization By NoName noname@no-name.main.jp
