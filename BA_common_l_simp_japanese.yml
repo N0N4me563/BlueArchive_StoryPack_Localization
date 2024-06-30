@@ -15,7 +15,7 @@
  building_BA_starlink_1:0 "衛星局"
  building_BA_starlink_1_desc:0 "衛星の着陸速度は衛星の放出速度に遠く及ばない"
  building_BA_starlink_2:0 "スターリンクステーション"
- building_BA_starlink_2_desc:0 "Yostar!セイアはいつピックアップされるの？"
+ building_BA_starlink_2_desc:0 "Yostarへ。セイアを実装してください。"
 
  # special resources
  building_BA_pyroxenes_1:0 "青輝石製造センター"
