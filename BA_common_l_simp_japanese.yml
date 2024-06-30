@@ -238,8 +238,8 @@
 
 
 ##### District & Building  #####
- BA_districts_dome:0 "宿舍区划"
- BA_districts_dome_desc:0 "为基沃托斯的学生量身打造的宿舍，配备各种自助式服务设备。居住舒适，价格公道，最重要的是防弹。"
+ BA_districts_dome:0 "寮区"
+ BA_districts_dome_desc:0 "キヴォトスの生徒たちのために設計された寮専用の地区。インフラ設備完備、充実したサービスで快適な生活を手頃な価格で。もちろん、防弾性能は抜群。"
  BA_districts_dome_plural:0 "$BA_districts_dome$"
  mod_planet_BA_districts_dome_build_speed_mult:0 "$BA_districts_dome$建造速度"
  BA_districts_campus:0 "学园区划"
