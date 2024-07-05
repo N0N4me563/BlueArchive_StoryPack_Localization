@@ -357,12 +357,12 @@
 
 
 #####       Edicts         #####
- edict_BA_SI_Abydos_A03: "§C强化产业§!"
- edict_BA_SI_Abydos_A03_desc: "为了更快的完成我们的目标，从计划层面上不顾一切代价进行加速生产。"
- edict_BA_SI_Gehenna_C03: "§C格黑娜的昭昭天命§!"
- edict_BA_SI_Gehenna_C03_desc: "强而有力的舰炮才是在星海中争霸最好的保证。"
- edict_BA_SI_Gehenna_E03: "§C步步为营§!"
- edict_BA_SI_Gehenna_E03_desc: "必须让每个星系都成为基沃托斯防线的一部分。"
+ edict_BA_SI_Abydos_A03: "§C産業を強化する§!"
+ edict_BA_SI_Abydos_A03_desc: "より早く目標を達成するために、企画段階からあらゆる費用を惜しまず投資する。"
+ edict_BA_SI_Gehenna_C03: "§C明白な運命§!"
+ edict_BA_SI_Gehenna_C03_desc: "強力な艦砲は、星海で派遣を争う上で最高の保障となる。"
+ edict_BA_SI_Gehenna_E03: "§C着実に§!"
+ edict_BA_SI_Gehenna_E03_desc: "すべての星系をキヴォトス防衛線の一部にしなければならない。"
 
 
 
