@@ -1,4 +1,4 @@
-﻿l_simp_chinese:
+﻿l_japanese:
  check_crisis_level:0 "查询天灾难度"
  check_crisis_level_re:0 "本局的天灾难度是：[GetBACrisisLevel]"
  LEVEL_Insane:0 "§MInsane§!"

@@ -1,4 +1,4 @@
-﻿l_simp_japanese:
+﻿l_japanese:
 
 #####       Agendas        #####
  council_agenda_agenda_BA_SI_Trinity_A02_name: "フィリウスの提言"
@@ -396,11 +396,11 @@
 
 
 #####     Megastuctures    #####
- Dgate_base:0 "数秘术通路基站"
- Dgate_base_DESC:0 "数秘术使用的通路的节点基站，目的地是一个星团。它所连接到的空间似乎在某个维度上存在异常。"
- DGATE_GALACTDIC:0 "数秘术通路"
- DGATE_GALACTDIC_DESC:0 "此星系内包含一个§Y$DGATE_GALACTDIC$§!"
- Dgate_base_fail_tooltip:0 "$TRIGGER_FAIL$通路拒绝接入"
+ Dgate_base:0 "ゲマトリア中継ノード基地局"
+ Dgate_base_DESC:0 "ゲマトリアが使用する中継ノード基地局の電波は、ある星団に向かっている。接続先は、異常な別次元にあるようだ"
+ DGATE_GALACTDIC:0 "ゲマトリア中継ノード"
+ DGATE_GALACTDIC_DESC:0 "この星系には§Y$DGATE_GALACTDIC$§!がある。"
+ Dgate_base_fail_tooltip:0 "$TRIGGER_FAIL$アクセス拒否"
  BYPASS_DESC_INACTIVE_DGATE:0 "通路无响应"
  Dgate_temp_base:0 "$Dgate_temp$ 基址"
  Dgate_temp_base_DESC:0 "$Dgate_temp_DESC$目前还处于基址状态。"
